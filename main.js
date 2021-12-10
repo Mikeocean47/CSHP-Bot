@@ -1,6 +1,7 @@
 let fs = require('fs');
 let Discord = require('discord.js');
 let Intents = Discord.Intents;
+ODg0NTE0MDkzMzI5OTUyODY4.YTZl8Q.dGVTMGvqN8ZmIWFCoYeAKvTrXZw
 
 let config = require('./config.json');
 let utilsReg = require('./util/registerCommands.js');
